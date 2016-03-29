@@ -18,10 +18,6 @@ What I learned:
 If you have any doubts about the code, just contact me.
 This is [on GitHub](https://github.com/egualter/Robotics_Aerial-Robotics) so let me know if I've b0rked it somewhere.
 
-
-Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
-the inspiration to this, and some handy implementation hints, came.
-
 ### For more information:
 
  * Coursera Page for [Robotics specialization](https://www.coursera.org/specializations/robotics) 
